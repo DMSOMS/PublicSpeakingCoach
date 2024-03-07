@@ -13,6 +13,7 @@ use PArtyRock to do the GenAi based analysis, it is generously offered free of c
 
 The development of **PartyRock** was carried out using **PartyRock**, facilitating compatibility across both iOS, Android and browser platforms. Our speech analysis algorithm is powered by machine learning models that have been trained on extensive collections of speech samples. For delivering accurate feedback, we employed **Claude**, **Claude Instant**, models ensuring swift and efficient analysis.
 Html file here uses chrome internal speach recognition, however the best option would be use of Amazon transcribe which will provide best of the class and accent sensitive recognition. the included free transcriber wont need any cloud services though (AWS transcribe would cost a bit). just close this repo it on your machine and hit index.html 
+https://partyrock.aws/u/andyshah/l6YuLWB-8G/Speech-Coach-Assistant
 
 ## Challenges we ran into
 
